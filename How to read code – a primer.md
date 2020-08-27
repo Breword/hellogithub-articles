@@ -1,7 +1,9 @@
+```yaml
 > * 原文地址：https://technikhil.wordpress.com/2010/07/06/how-to-read-code-a-primer/
 > * 原文作者：technikhil
 > * 译者：
 > * 校对者：
+```
 
 # How to read code – a primer
 
